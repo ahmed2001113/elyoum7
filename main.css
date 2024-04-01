@@ -1,0 +1,27 @@
+.imgg{
+    width: 100%;
+    height: 100%;
+} 
+.imggg{
+    height: 375px !important;
+}
+
+.a1{
+    width:400px;  
+    margin:auto; 
+    height:60px;
+    
+}
+.kj {
+    font-size:35px;
+padding-left:auto;  
+}  
+    .white-logo{
+        color: white;
+    }
+    .meanmenu-reveal{
+        display: none;
+    }
+ .buy-now-btn{
+    display: none;
+ }
